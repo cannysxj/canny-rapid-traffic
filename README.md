@@ -1,2 +1,2 @@
 # canny-rapid-traffic
-康力快速交通分析
+康力快速交通分析工具
